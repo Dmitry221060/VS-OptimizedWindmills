@@ -6,5 +6,5 @@
         "Dmitry221060"
     ],
     "description": "Replaces windmill speed calculation to not cause server lag",
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
